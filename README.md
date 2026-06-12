@@ -1,6 +1,6 @@
 # free_website
 
-A simple static landing page (DataLogicHub) — pure HTML, CSS, and JavaScript.
+A simple static landing page (My Free Web) — pure HTML, CSS, and JavaScript.
 
 ## Files
 - `index.html` — page markup
